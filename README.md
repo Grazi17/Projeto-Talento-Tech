@@ -16,12 +16,6 @@ O objetivo deste projeto é desenvolver um aplicativo de venda de geleias que pe
 - **CSS**: Para a estilização do aplicativo.
 - **JavaScript**: Para a lógica do aplicativo.
 
-## Como Executar o Projeto
-
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/todo-app.git
-
 # Projeto-Talento-Tech
 
 
